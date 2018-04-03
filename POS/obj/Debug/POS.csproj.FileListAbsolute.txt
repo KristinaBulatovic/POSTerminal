@@ -1,0 +1,38 @@
+C:\Users\Bejn\source\repos\POS\POS\bin\Debug\POS.exe.config
+C:\Users\Bejn\source\repos\POS\POS\bin\Debug\POS.exe
+C:\Users\Bejn\source\repos\POS\POS\bin\Debug\POS.pdb
+C:\Users\Bejn\source\repos\POS\POS\obj\Debug\POS.csprojResolveAssemblyReference.cache
+C:\Users\Bejn\source\repos\POS\POS\obj\Debug\POS.Form1.resources
+C:\Users\Bejn\source\repos\POS\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\Bejn\source\repos\POS\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\Bejn\source\repos\POS\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\Bejn\source\repos\POS\POS\obj\Debug\POS.exe
+C:\Users\Bejn\source\repos\POS\POS\obj\Debug\POS.pdb
+C:\Users\Bejn\source\repos\POS\POS\obj\Debug\POS.POSForm.resources
+C:\Users\Bejn\source\repos\POS\POS\obj\Debug\POS.ViewPayslip.resources
+C:\Users\Bejn\Desktop\POS\POS\bin\Debug\POS.exe.config
+C:\Users\Bejn\Desktop\POS\POS\bin\Debug\POS.exe
+C:\Users\Bejn\Desktop\POS\POS\bin\Debug\POS.pdb
+C:\Users\Bejn\Desktop\POS\POS\obj\Debug\POS.csprojResolveAssemblyReference.cache
+C:\Users\Bejn\Desktop\POS\POS\obj\Debug\POS.Form1.resources
+C:\Users\Bejn\Desktop\POS\POS\obj\Debug\POS.POSForm.resources
+C:\Users\Bejn\Desktop\POS\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\Bejn\Desktop\POS\POS\obj\Debug\POS.ViewPayslip.resources
+C:\Users\Bejn\Desktop\POS\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\Bejn\Desktop\POS\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\Bejn\Desktop\POS\POS\obj\Debug\POS.exe
+C:\Users\Bejn\Desktop\POS\POS\obj\Debug\POS.pdb
+C:\Users\Bejn\Desktop\POS\POS\obj\Debug\POS.Statistics.resources
+C:\Users\Bejn\Desktop\V1 - Copy\POS\POS\bin\Debug\POS.exe.config
+C:\Users\Bejn\Desktop\V1 - Copy\POS\POS\bin\Debug\POS.exe
+C:\Users\Bejn\Desktop\V1 - Copy\POS\POS\bin\Debug\POS.pdb
+C:\Users\Bejn\Desktop\V1 - Copy\POS\POS\obj\Debug\POS.csprojResolveAssemblyReference.cache
+C:\Users\Bejn\Desktop\V1 - Copy\POS\POS\obj\Debug\POS.POSForm.resources
+C:\Users\Bejn\Desktop\V1 - Copy\POS\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\Bejn\Desktop\V1 - Copy\POS\POS\obj\Debug\POS.Statistics.resources
+C:\Users\Bejn\Desktop\V1 - Copy\POS\POS\obj\Debug\POS.ViewPayslip.resources
+C:\Users\Bejn\Desktop\V1 - Copy\POS\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\Bejn\Desktop\V1 - Copy\POS\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\Bejn\Desktop\V1 - Copy\POS\POS\obj\Debug\POS.exe
+C:\Users\Bejn\Desktop\V1 - Copy\POS\POS\obj\Debug\POS.pdb
+C:\Users\Bejn\Desktop\V1 - Copy\POS\POS\obj\Debug\POS.LoginForm.resources
